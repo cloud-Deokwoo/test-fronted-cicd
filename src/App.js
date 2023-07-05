@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          수정된 내용으로 작업 됩니다.Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
